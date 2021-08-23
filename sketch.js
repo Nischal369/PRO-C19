@@ -143,5 +143,4 @@ function createEnd(){
   end.addImage(endImg)
   end.visible = false;
   end.scale = 0.6;
-
 }
