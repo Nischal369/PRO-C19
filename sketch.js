@@ -14,7 +14,7 @@ function preload(){
   cashImg = loadImage("cash.png");
   diamondsImg = loadImage("diamonds.png");
   jwelleryImg = loadImage("jwell.png");
-  swordImg = loadImage("sword.png");
+  swordImg = loadImage("SunMonster.png");
   endImg =loadAnimation("gameOver.png");
 }
 
